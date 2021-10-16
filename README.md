@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+## Виталий Зверев // QA Engineer
 
-You can use the [editor on GitHub](https://github.com/VitalyVZH/VitalyVZH/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+<table border="0">
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/%D0%B3%D0%BE%D1%80%D0%BE%D0%B4-%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0-blue" />
+      <a href="mailto:vzh.zverev@gmail.com"><img src="https://img.shields.io/badge/Email-vzh.zverev@gmail.com-blue" /></a>      
+      <a href="https://t.me/vzh_zverev"><img src="https://img.shields.io/badge/Telegram-@vzh_zverev-blue" /></a>      
+      <a href="https://join.skype.com/invite/HP8hgNqpJA8Y"><img src="https://img.shields.io/badge/Skype-vzh.zverev-blue" /></a>
+      <a href="https://www.linkedin.com/in/vzh-zverev/"><img src="https://img.shields.io/badge/LinkedIn-vzh_zverev-blue" /></a>
+    </td>
+  </tr>
+</table>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Системы управления:** Test IT
 
-### Markdown
+**Баг трекеры:**	Jira, Redmine
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Базы данных:**	SQL (SELECT, JOIN, DISTINCT, GROUP BY, ORDER BY, LIKE, HAVING)
+ 
+**API тестирование:**	Postman (отправка запросов GET, POST, PUT, PATCH, DELETE, настройка окружения, написание простых тестов)
+SoapUI
+ 
+**Системы контроля версий:**	Git (работа с локальными и удаленными репозиториями (создание, удаление веток, добавление / изменение / удаление файлов, слияние веток)
+ 
+**Терминал:**	pwd, ls, cat, cd, file, cp, mv, rm, chmod, find, less, head/tail, grep, diff, pkill, htop
+ 
+**Автоматизация:**	Java (TestNG/JUnit): Selenium WebDriver, Rest Assured, Cucumber
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/VitalyVZH/VitalyVZH/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+**Другие инструменты:**	DevTools, Charles (установка сертификата, настройка прокси-сервера, перехват и подмена трафика)
