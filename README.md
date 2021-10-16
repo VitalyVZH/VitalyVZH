@@ -16,10 +16,9 @@
 
 **Баг трекеры:**	Jira, Redmine
 
-**Базы данных:**	SQL (SELECT, JOIN, DISTINCT, GROUP BY, ORDER BY, LIKE, HAVING)
+**SQL:**	 (SELECT, JOIN, DISTINCT, GROUP BY, ORDER BY, LIKE, HAVING)
  
-**API тестирование:**	Postman (отправка запросов GET, POST, PUT, PATCH, DELETE, настройка окружения, написание простых тестов)
-SoapUI
+**API тестирование:**	Postman (отправка запросов GET, POST, PUT, PATCH, DELETE, настройка окружения, написание простых тестов), SoapUI
  
 **Системы контроля версий:**	Git (работа с локальными и удаленными репозиториями (создание, удаление веток, добавление / изменение / удаление файлов, слияние веток)
  
