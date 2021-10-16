@@ -16,7 +16,7 @@
 
 **Баг трекеры:**	Jira, Redmine
 
-**SQL:**	 (SELECT, JOIN, DISTINCT, GROUP BY, ORDER BY, LIKE, HAVING)
+**<a href="https://github.com/VitalyVZH/sql">SQL:</a>**	 SELECT, JOIN, DISTINCT, GROUP BY, ORDER BY, LIKE, HAVING
  
 **API тестирование:**	Postman (отправка запросов GET, POST, PUT, PATCH, DELETE, настройка окружения, написание простых тестов), SoapUI
  
