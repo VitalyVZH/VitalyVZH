@@ -24,6 +24,6 @@
  
 **Терминал:**	pwd, ls, cat, cd, file, cp, mv, rm, chmod, find, less, head/tail, grep, diff, pkill, htop
  
-**Автоматизация:**	Java (TestNG/JUnit): Selenium WebDriver, Rest Assured, Cucumber
+**Автоматизация:**	Java (TestNG/JUnit): Selenium WebDriver, Selenide, Rest Assured, Cucumber
 
 **Другие инструменты:**	DevTools, Charles (установка сертификата, настройка прокси-сервера, перехват и подмена трафика)
