@@ -1,4 +1,4 @@
-## Виталий Зверев // QA Engineer
+## Виталий Зверев // QA Automation Engineer
 
 <table border="0">
   <tr>
@@ -20,10 +20,10 @@
  
 **API тестирование:**	Postman (отправка запросов GET, POST, PUT, PATCH, DELETE, настройка окружения, написание простых тестов), SoapUI
  
-**Системы контроля версий:**	Git (работа с локальными и удаленными репозиториями (создание, удаление веток, добавление / изменение / удаление файлов, слияние веток)
+**Системы контроля версий:**	Git (работа с локальными и удаленными репозиториями (создание, удаление веток, добавление / изменение / удаление файлов, слияние веток). GitHub, GitLab, ButBucket
  
 **Терминал:**	pwd, ls, cat, cd, file, cp, mv, rm, chmod, find, less, head/tail, grep, diff, pkill, htop
  
-**Автоматизация:**	Java (TestNG/JUnit): Selenium WebDriver, Selenide, Rest Assured, Cucumber
+**Автоматизация:**	Java (TestNG/JUnit): Selenium WebDriver, Selenide, Rest Assured, Cucumber, Maven
 
 **Другие инструменты:**	DevTools, Charles (установка сертификата, настройка прокси-сервера, перехват и подмена трафика)
